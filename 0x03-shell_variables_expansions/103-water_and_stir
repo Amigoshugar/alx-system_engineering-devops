@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "ibase=\$WATER;obase=bestchol; \$STIR" | bc
